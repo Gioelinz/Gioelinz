@@ -7,6 +7,5 @@ Learning: <br/>
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 
 - 📫 How to reach me: gioelerunza.gr@gmail.com
-
-
+---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gioelinz&layout=compact)
