@@ -8,3 +8,5 @@ Learning: <br/>
 
 - 📫 How to reach me: gioelerunza.gr@gmail.com
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gioelinz)](https://github.com/gioelinz/github-readme-stats
