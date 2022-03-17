@@ -8,4 +8,4 @@ Hi there i'm Gioele 👋
 ---
 - 📫 How to reach me: gioelerunza.gr@gmail.com
 ---
-<img width='600' src="https://github-readme-stats.vercel.app/api/top-langs?username=gioelinz&show_icons=true&locale=en&layout=compact" alt="gioelinz" />
+<img width='500' src="https://github-readme-stats.vercel.app/api/top-langs?username=gioelinz&show_icons=true&locale=en&layout=compact" alt="gioelinz" />
