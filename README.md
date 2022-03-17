@@ -5,7 +5,7 @@
 ---
 ## Learning: 
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-
+---
 - 📫 How to reach me: gioelerunza.gr@gmail.com
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gioelinz&layout=compact)
